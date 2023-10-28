@@ -1,0 +1,9 @@
+{
+  "apps": [
+    {
+      "name": "btfile-pub",
+      "script": "npm",
+      "args": "run production /home/publications 4021"
+    }
+  ]
+}
